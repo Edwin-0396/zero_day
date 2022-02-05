@@ -1,2 +1,9 @@
-#REPO-Session
-####Adding a directory ####
+0;10;1c0;10;1c# Git Basics
+###
+
+#### It's important to set a SSH key to connect to the server ####
+
+Editing from GitHub just once
+: There are some differences between doing on Git and GitHub
+
+:Just trying to merge
